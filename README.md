@@ -10,7 +10,6 @@
 - 👨‍💻 Latest Project: [Project Tools](https://owaspvit.com/project_tools/)
 - 🤓 Quiz manniac...Let's have 1-1! [QuizUp: Sparsh Raj](https://www.quizup.com/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sparsh-raj-sr2610)
-- 👻 For friends: [Instagram](https://www.instagram.com/sparsshhhh_/)
 - 😄 Pronouns: ... he/his/him
 - 😉 Fun fact: ... you can laugh at my lame jokes.
 
