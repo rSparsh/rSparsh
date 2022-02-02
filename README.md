@@ -1,6 +1,6 @@
 ### Hi there, what's up buddy? 👋
 
-- 🧔 Chapter Leader at [OWASP VITCC STUDENT CHAPTER](https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/)
+- 🧔 Chapter Leader at [OWASP VITCC STUDENT CHAPTER](https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/) and [CYSCOM VITCC](https://cyscomvit.com)
 - ✍ Blogs:
    1. [Is "P" in your VPN Public? (Part-2)](https://blog.owaspvit.com/2021/07/is-p-in-your-vpn-public-part-2.html)
    2. [Is "P" in your VPN Public? (Part-1)](https://blog.owaspvit.com/2021/07/is-p-in-your-vpn-publicpart-1.html)
