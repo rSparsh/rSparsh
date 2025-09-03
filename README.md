@@ -13,6 +13,9 @@ Founder & Former Chapter Leader at [CYSCOM VITCC](https://cyscomvit.com) (Former
 
 Keen interest in application security and cybersecurity best practices alongside backend development
 
+🌐 Cloud & Certifications  
+- Google Cloud Certified [Associate Cloud Engineer](https://www.credly.com/badges/2b6e4d2d-141d-4004-af9a-81de8223cb73/linked_in_profile)  
+
 ✍ Blogs:
    1. [Is "P" in your VPN Public? (Part-2)](https://blog.owaspvit.com/2021/07/is-p-in-your-vpn-public-part-2.html)
    2. [Is "P" in your VPN Public? (Part-1)](https://blog.owaspvit.com/2021/07/is-p-in-your-vpn-publicpart-1.html)
