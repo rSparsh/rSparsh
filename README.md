@@ -4,6 +4,7 @@
 Backend Developer with 2+ years of experience in Java (8/17), Spring Boot, microservices, and distributed systems
 
 Skilled in building scalable, cloud-native applications using GCP (GCE, GKE, Spanner, Datastore, Cloud Storage, Observability)
+& Oracle Cloud Infrastructure.
 
 Experience with gRPC, CI/CD (Jenkins, GitHub Actions), and SQL (PostgreSQL, Cloud Spanner)
 
@@ -14,6 +15,7 @@ Founder & Former Chapter Leader at [CYSCOM VITCC](https://cyscomvit.com) (Former
 Keen interest in application security and cybersecurity best practices alongside backend development
 
 🌐 Cloud & Certifications  
+- Oracle Cloud Infrastructure Certified [OCI Architect Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1B58FC859E199AA1EA3F91E12CD92A4189CB7A13C11B9210BE576E623FA59CF7)
 - Google Cloud Certified [Associate Cloud Engineer](https://www.credly.com/badges/2b6e4d2d-141d-4004-af9a-81de8223cb73/linked_in_profile)  
 
 ✍ Blogs:
