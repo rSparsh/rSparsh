@@ -1,7 +1,7 @@
 👋 Hi, I’m Sparsh Raj
 🧑‍💻 About Me
 
-Backend Developer with 2+ years of experience in Java (8/17), Spring Boot, microservices, and distributed systems
+Backend Developer with 3+ years of experience in Java (8/17), Spring Boot, microservices, and distributed systems
 
 Skilled in building scalable, cloud-native applications using GCP (GCE, GKE, Spanner, Datastore, Cloud Storage, Observability)
 & Oracle Cloud Infrastructure.
